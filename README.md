@@ -41,11 +41,12 @@ Data Profiling on Raw_Player_Match, consisting of columns meeting the quality di
 
 ## ETL Pipeline
 
-![image](https://user-images.githubusercontent.com/45402305/180607862-b69e581d-31ef-4984-bd28-2f520045a164.png)
+![image](https://user-images.githubusercontent.com/45402305/180608150-a2ef97a0-2a18-4749-8dbf-f58006f44759.png)
+
 
 # Snow flake Schema
 
-![image](https://user-images.githubusercontent.com/45402305/180607889-ecc6dce9-cec1-4207-beb1-4067159741a8.png)
+![image](https://user-images.githubusercontent.com/45402305/180608173-3d034b2d-a7e6-4186-897a-ba8cb9f2d5d4.png)
 
 ## Data Visualization
 
